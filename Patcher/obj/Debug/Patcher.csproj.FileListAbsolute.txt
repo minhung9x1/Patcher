@@ -1,0 +1,13 @@
+d:\Documents\Visual Studio 2017\Projects\Patcher\Patcher\bin\Debug\Patcher.exe.config
+d:\Documents\Visual Studio 2017\Projects\Patcher\Patcher\bin\Debug\Patcher.exe.manifest
+d:\Documents\Visual Studio 2017\Projects\Patcher\Patcher\bin\Debug\Patcher.application
+d:\Documents\Visual Studio 2017\Projects\Patcher\Patcher\bin\Debug\Patcher.exe
+d:\Documents\Visual Studio 2017\Projects\Patcher\Patcher\bin\Debug\Patcher.pdb
+d:\Documents\Visual Studio 2017\Projects\Patcher\Patcher\obj\Debug\Patcher.Form1.resources
+d:\Documents\Visual Studio 2017\Projects\Patcher\Patcher\obj\Debug\Patcher.Properties.Resources.resources
+d:\Documents\Visual Studio 2017\Projects\Patcher\Patcher\obj\Debug\Patcher.csproj.GenerateResource.Cache
+d:\Documents\Visual Studio 2017\Projects\Patcher\Patcher\obj\Debug\Patcher.TrustInfo.xml
+d:\Documents\Visual Studio 2017\Projects\Patcher\Patcher\obj\Debug\Patcher.exe.manifest
+d:\Documents\Visual Studio 2017\Projects\Patcher\Patcher\obj\Debug\Patcher.application
+d:\Documents\Visual Studio 2017\Projects\Patcher\Patcher\obj\Debug\Patcher.exe
+d:\Documents\Visual Studio 2017\Projects\Patcher\Patcher\obj\Debug\Patcher.pdb
